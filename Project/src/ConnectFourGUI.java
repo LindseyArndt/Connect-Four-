@@ -44,7 +44,7 @@ import javax.swing.JPanel;
  *    import java.awt.FlowLayout; 
  *    import java.awt.GridLayout; 
  *    import java.awt.Image; 
- *           import java.awt.event.ActionEvent;  
+ *    import java.awt.event.ActionEvent;  
  *    import java.awt.event.ActionListener; 
  *    import javax.swing.AbstractButton; 
  *    import javax.swing.Icon; 
